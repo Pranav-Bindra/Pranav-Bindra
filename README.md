@@ -1,4 +1,4 @@
-![MasterHead](https://wpcarey.asu.edu/sites/default/files/2022-09/wp-carey-mccord-night-tempe.jpg)
+![MasterHead](https://media.licdn.com/dms/image/D5616AQGl5VuQsZh-HA/profile-displaybackgroundimage-shrink_350_1400/0/1695914607685?e=1715817600&v=beta&t=mlzP3jxICWmlOqfiJRiHIZqg-w9BwDmWsr92gRAFU3w)
 <h1 align="center">Hi 👋, I'm Pranav Bindra</h1>
 <h3 align="center">A Full Stack Software Developer from Phoenix, Az</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
