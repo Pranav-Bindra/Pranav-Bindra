@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pbindra1@asu.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pranav-bindra/overlay/1708315617447/single-media-viewer/?profileId=ACoAAC_9EmwBvAJO8ZN89DkACcDTCEW-QarmAes](https://www.linkedin.com/in/pranav-bindra/overlay/1708315617447/single-media-viewer/?profileId=ACoAAC_9EmwBvAJO8ZN89DkACcDTCEW-QarmAes)
+- 📄 Know about my experiences [Resume](https://www.linkedin.com/in/pranav-bindra/details/featured/1710046461097/single-media-viewer/?profileId=ACoAAC_9EmwBvAJO8ZN89DkACcDTCEW-QarmAes)
 
 - ⚡ Fun fact **I have experience working as a Railway Design Engineer**
 
